@@ -1,5 +1,5 @@
 pipeline {
-    agent myown
+    agent myownajits
     
     tools {
         maven 'M2_HOME'
